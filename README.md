@@ -3,7 +3,8 @@ Reading group and collection of ML resources.
 
 ## Reading Group Sessions
 ### Session 1: SeqGAN
-Paper Link: https://arxiv.org/pdf/1609.05473.pdf
+Paper Link: https://arxiv.org/pdf/1609.05473.pdf 
+
 Slides: http://lantaoyu.com/files/2017-02-07-aaai-seqgan.pdf
 
 #### Preliminary Readings: 
