@@ -3,10 +3,8 @@ Reading group and collection of ML resources.
 
 ## Reading Group Sessions
 ### Session 1: SeqGAN
-Yu, Lantao, et al. "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient." AAAI. 2017
-
-Paper Link: https://arxiv.org/pdf/1609.05473.pdf 
-
+Yu, Lantao, et al. "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient." AAAI. 2017     
+Paper Link: https://arxiv.org/pdf/1609.05473.pdf      
 Slides: http://lantaoyu.com/files/2017-02-07-aaai-seqgan.pdf
 
 #### Preliminary Readings: 
