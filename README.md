@@ -1,5 +1,5 @@
 # Such-ML
-Reading group and collection of ML resources.
+Reading group and collection of ML/NLP resources.
 
 ## Reading Group Sessions
 ### Session 1: SeqGAN
