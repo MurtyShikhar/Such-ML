@@ -2,5 +2,5 @@
 2. LSTM achitecture search: http://proceedings.mlr.press/v37/jozefowicz15.pdf
 3. Dense CNN: https://research.fb.com/publications/densely-connected-convolutional-networks/ 
 4. UNet: https://arxiv.org/abs/1505.04597
-5. Computational Graphs : http://u.cs.biu.ac.il/~yogo/nnlp.pdf
+5. Computational Graphs : http://u.cs.biu.ac.il/~yogo/nnlp.pdf (Section 6.2)
 6. Numal Optimization 
