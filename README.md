@@ -41,3 +41,5 @@ Slides: http://lantaoyu.com/files/2017-02-07-aaai-seqgan.pdf
 * State-Frequency Memory Recurrent Neural Networks
 * Language Modeling with Gated Convolutional Networks
 * Convolutional Sequence to Sequence Learning
+* End-to-End Learning for Structured Prediction Energy Networks
+
