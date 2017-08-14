@@ -19,3 +19,25 @@ Slides: http://lantaoyu.com/files/2017-02-07-aaai-seqgan.pdf
 #### Implementations:
 * PyTorch: https://github.com/suragnair/seqGAN
 * Tensorflow: https://github.com/LantaoYu/SeqGAN
+
+
+## Latest interesting papers
+### ICML (2017)
+* Decoupled Neural Interfaces using Synthetic Gradients
+* Meta networks 
+* Online and Linear-Time Attention by Enforcing Monotonic Alignments
+* Wasserstein GAN
+* Sequence Tutor: Conservative Fine-Tuning of Sequence Generation Models with KL-control
+* Deriving Neural Architectures from Sequence and Graph Kernels
+* Learning to Discover Cross-Domain Relations with Generative Adversarial Networks
+* Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
+* Understanding Black-box Predictions via Influence Functions
+* Delta Networks for Optimized Recurrent Network Computation
+* Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders
+* Discovering Discrete Latent Topics with Neural Variational Inference
+* Image-to-Markup Generation with Coarse-to-Fine Attention
+* Toward Controlled Generation of Text
+* Learning Continuous Semantic Representations of Symbolic Expressions
+* State-Frequency Memory Recurrent Neural Networks
+* Language Modeling with Gated Convolutional Networks
+* Convolutional Sequence to Sequence Learning
