@@ -4,6 +4,10 @@ Curated Reading Lists
 * Deep Learning Vision Papers: https://github.com/kjw0612/awesome-deep-vision
 * Deep Learning Bio Papers: https://github.com/gokceneraslan/awesome-deepbio
 
+### DL in Biomedical fields
+
+* A survey on Deep Learning in Medical Image Analysis : https://arxiv.org/pdf/1702.05747.pdf
+
 On PhD
 ------
 * http://karpathy.github.io/2016/09/07/phd/
