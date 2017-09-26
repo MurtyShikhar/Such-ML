@@ -20,6 +20,12 @@ Slides: http://lantaoyu.com/files/2017-02-07-aaai-seqgan.pdf
 * PyTorch: https://github.com/suragnair/seqGAN
 * Tensorflow: https://github.com/LantaoYu/SeqGAN
 
+### Session 2: Optimization Methods
+Léon Bottou, Frank E. Curtis, Jorge Nocedal. "Optimization Methods for Large-Scale Machine Learning." stat.ML 2017     
+Paper: https://arxiv.org/abs/1606.04838         
+
+#### Key Takeaways:
+* SGD and Mini-Batch are equivalent, Mini-Batch is suited for parallelization
 
 ## Latest interesting papers
 ### ICML (2017)
